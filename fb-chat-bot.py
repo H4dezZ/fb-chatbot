@@ -497,10 +497,10 @@ class ChatBot(Client):
                 reply = "Nobody is busy. Only things are prioritized."
                 sendMsg()
             elif("help" in msg):
-                reply = "Sure! What should I do?"
+                reply = "ano nanaman kelangan mo?"
                 sendMsg()
-            elif("clever" in msg):
-                reply = "Yes, i am clever. hope you will be clever soon."
+            elif("damot" in msg):
+                reply = "oo madamot talaga ako sana ikaw din haha."
                 sendMsg()
             elif("crazy" in msg):
                 reply = "Anything wrong about that."
